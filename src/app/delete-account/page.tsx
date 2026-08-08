@@ -5,7 +5,7 @@ export const metadata: Metadata = { title: "Delete Your Account — NumKhor" };
 
 export default function DeleteAccountPage() {
   return (
-    <LegalLayout title="Delete your NumKhor account" updated="August 8, 2026">
+    <LegalLayout title="Delete your NumKhor account" updated="August 9, 2026">
       <p>
         You can permanently delete your NumKhor account and all associated data directly from the app, at any time
         — no need to contact support first.
@@ -20,7 +20,10 @@ export default function DeleteAccountPage() {
         <li>
           Tap <strong>Delete account</strong> near the bottom of the screen.
         </li>
-        <li>Confirm when asked.</li>
+        <li>
+          Type <strong>DELETE</strong> into the confirmation box that appears, then tap{" "}
+          <strong>Delete everything</strong>.
+        </li>
       </ul>
       <p>This takes effect immediately and cannot be undone.</p>
 
