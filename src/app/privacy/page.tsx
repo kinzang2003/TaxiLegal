@@ -28,8 +28,10 @@ export default function PrivacyPage() {
       </p>
       <p>
         <strong>Camera and photos (drivers only)</strong> — To verify you&apos;re eligible to drive commercially in
-        Bhutan, we require a photo of your driving license, which is manually reviewed. If you subscribe after your
-        free trial period, you may also upload a payment screenshot for manual verification.
+        Bhutan, we require a photo of your driving license, which is manually reviewed. You can either take this
+        photo with your device camera from within the app or choose an existing photo from your gallery; camera
+        access is only used for this and is requested at the moment you choose to take a photo. If you subscribe
+        after your free trial period, you may also upload a payment screenshot for manual verification.
       </p>
       <p>
         <strong>Driver and vehicle details (drivers only)</strong> — License number, CID (Citizenship Identity
